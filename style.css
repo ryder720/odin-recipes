@@ -1,7 +1,13 @@
 h1{
     text-align: center;
     font-weight: 800;
+    background-color: aqua;
 }
 .recipelink{
     height: 100px;
+}
+.homelink{
+    background-color: aqua;
+    color: black;
+
 }
